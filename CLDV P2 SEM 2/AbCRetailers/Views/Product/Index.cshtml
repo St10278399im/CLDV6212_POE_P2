@@ -1,0 +1,46 @@
+﻿@model IEnumerable<AbCRetailers.Models.Product>
+@{
+    ViewData["Title"] = "Product List";
+}
+
+<div class="container mt-4">
+    <h2>Products</h2>
+    <a asp-action="Create" class="btn btn-primary mb-3">Add New Product</a>
+
+    <table class="table table-bordered table-striped">
+        <thead class="table-light">
+            <tr>
+                <th>Image</th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Price ($)</th>
+                <th>Stock</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model) 
+            {
+                <tr>
+                    <td>
+                        <img src="@product.ImageUrl" class="img-thumbnail" style="height: 80px;" />
+                    </td>
+                    <td>@product.ProductName</td>
+                    <td>@product.Description</td>
+                    <td>@product.Price</td>
+                    <td>
+                        <span class="badge @(product.StockAvailable > 10 ? "bg-success" : product.StockAvailable > 0 ? "bg-warning" : "bg-danger")">
+                            @product.StockAvailable
+                        </span>
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@product.RowKey" class="btn btn-sm btn-warning">Edit</a>
+                        <form asp-action="Delete" asp-route-id="@product.RowKey" method="post" class="d-inline">
+                            <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('Are you sure to delete this product?')">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

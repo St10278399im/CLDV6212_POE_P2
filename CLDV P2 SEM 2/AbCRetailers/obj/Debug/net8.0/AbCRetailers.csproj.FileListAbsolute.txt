@@ -1,0 +1,9 @@
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net8.0\AbCRetailers.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net8.0\AbCRetailers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net8.0\AbCRetailers.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net8.0\AbCRetailers.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net8.0\AbCRetailers.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net8.0\AbCRetailers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net8.0\AbCRetailers.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net8.0\AbCRetailers.RazorAssemblyInfo.cs

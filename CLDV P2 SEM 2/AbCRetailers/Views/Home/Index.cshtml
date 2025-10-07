@@ -1,0 +1,95 @@
+﻿@model AbCRetailers.Models.ViewModels.HomeViewModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<style>
+    .card-header-custom {
+        background-color: #007bff;
+        color: white;
+    }
+
+    .card-featured {
+        border: 1px solid #dee2e6;
+        transition: transform 0.2s ease-in-out;
+    }
+
+        .card-featured:hover {
+            transform: scale(1.02);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+
+    .featured-title {
+        color: #343a40;
+    }
+
+    .price-tag {
+        color: #28a745;
+        font-weight: bold;
+    }
+
+    .section-heading {
+        color: #17a2b8;
+        border-bottom: 2px solid #17a2b8;
+        padding-bottom: 5px;
+    }
+</style>
+
+<div class="container mt-4">
+    <h2 class="section-heading">Welcome to AbCRetailers</h2>
+
+    <!-- Buttons Section -->
+    <div class="mb-4">
+        <a href="Customer" class="btn btn-primary me-2">Customer</a>
+        <a href="Product" class="btn btn-success me-2">Product</a>
+        <a href="Order " class="btn btn-warning me-2 text-white">Order</a>
+        <a href="Upload" class="btn btn-secondary">Upload</a>
+    </div>
+
+    <!-- Dashboard Cards -->
+    <div class="row my-4">
+        <div class="col-md-4">
+            <div class="card text-white bg-primary mb-3">
+                <div class="card-header">Customers</div>
+                <div class="card-body">
+                    <h5 class="card-title">@Model.CustomerCount</h5>
+                    <p class="card-text">Total registered customers.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-white bg-success mb-3">
+                <div class="card-header">Products</div>
+                <div class="card-body">
+                    <h5 class="card-title">@Model.ProductCount</h5>
+                    <p class="card-text">Available products in store.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-white bg-warning mb-3">
+                <div class="card-header">Orders</div>
+                <div class="card-body">
+                    <h5 class="card-title">@Model.OrderCount</h5>
+                    <p class="card-text">Total orders processed.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <h3 class="mb-3 featured-title">Featured Products</h3>
+    <div class="row">
+        @foreach (var product in Model.FeaturedProducts.Take(4))
+        {
+            <div class="col-md-3">
+                <div class="card card-featured mb-3">
+                    <img src="@product.ImageUrl" class="card-img-top" alt="@product.ProductName" />
+                    <div class="card-body">
+                        <h5 class="card-title">@product.ProductName</h5>
+                        <p class="card-text price-tag">$@product.Price</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

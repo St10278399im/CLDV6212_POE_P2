@@ -1,0 +1,52 @@
+﻿@model AbCRetailers.Models.FileUploadModel
+@{
+    ViewData["Title"] = "Upload Payment Proof";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">@ViewData["Title"]</h2>
+
+    <!-- Success and error messages -->
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">@TempData["SuccessMessage"]</div>
+    }
+    @if (TempData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+    }
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @TempData["Success"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
+
+
+    <form asp-action="Index" method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label asp-for="OrderId" class="form-label">Order ID</label>
+            <input asp-for="OrderId" class="form-control" />
+            <span asp-validation-for="OrderId" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="CustomerName" class="form-label">Customer Name</label>
+            <input asp-for="CustomerName" class="form-control" />
+            <span asp-validation-for="CustomerName" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="ProofOfPayment" class="form-label">Proof of Payment</label>
+            <input asp-for="ProofOfPayment" type="file" accept=".jpg,.jpeg,.png,.pdf" class="form-control" />
+            <span asp-validation-for="ProofOfPayment" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success">Upload</button>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
