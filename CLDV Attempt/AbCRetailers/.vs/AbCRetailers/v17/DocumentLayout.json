@@ -1,0 +1,620 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers\\abcretailers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|solutionrelative:abcretailers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5813DA1-832B-4F5B-A196-1D311B40C7C9}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers.functions\\functions\\blobfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5813DA1-832B-4F5B-A196-1D311B40C7C9}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers.functions\\functions\\customersfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5813DA1-832B-4F5B-A196-1D311B40C7C9}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers.functions\\functions\\ordersfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5813DA1-832B-4F5B-A196-1D311B40C7C9}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers.functions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5813DA1-832B-4F5B-A196-1D311B40C7C9}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers.functions\\functions\\queueprocessorfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5813DA1-832B-4F5B-A196-1D311B40C7C9}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers.functions\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5813DA1-832B-4F5B-A196-1D311B40C7C9}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers.functions\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5813DA1-832B-4F5B-A196-1D311B40C7C9}|..\\ABCRetailers.Functions\\ABCRetailers.Functions.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers.functions\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\ProductsFunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers\\models\\viewmodels\\createviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|solutionrelative:models\\viewmodels\\createviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers\\services\\iazurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|solutionrelative:services\\iazurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers\\services\\functionsapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|solutionrelative:services\\functionsapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers\\services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|solutionrelative:services\\azurestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|c:\\users\\hmaba\\onedrive\\desktop\\cldv attempt\\abcretailers\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A40E410-713D-4D0A-BEFA-4F335C7C39C1}|AbCRetailers.csproj|solutionrelative:views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\AbcRetailerFunction.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\QueueProcessorFunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\UploadsFunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Models\\ApiModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Helpers\\MultipartHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Properties\\serviceDependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Entities\\TableEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\OrdersFunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\CustomersFunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\AbcRetailerFunction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\BlobFunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Helpers\\Map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Helpers\\HttpJson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbCRetailers",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\AbCRetailers.csproj",
+              "RelativeDocumentMoniker": "AbCRetailers.csproj",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\AbCRetailers.csproj",
+              "RelativeToolTip": "AbCRetailers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T19:31:06.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlobFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\ABCRetailers.Functions\\Functions\\BlobFunctions.cs",
+              "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\Functions\\BlobFunctions.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\ABCRetailers.Functions\\Functions\\BlobFunctions.cs",
+              "RelativeToolTip": "..\\ABCRetailers.Functions\\Functions\\BlobFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:50:56.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\ABCRetailers.Functions\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\Program.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\ABCRetailers.Functions\\Program.cs",
+              "RelativeToolTip": "..\\ABCRetailers.Functions\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:38:03.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QueueProcessorFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\ABCRetailers.Functions\\Functions\\QueueProcessorFunctions.cs",
+              "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\Functions\\QueueProcessorFunctions.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\ABCRetailers.Functions\\Functions\\QueueProcessorFunctions.cs",
+              "RelativeToolTip": "..\\ABCRetailers.Functions\\Functions\\QueueProcessorFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:29:45.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\ABCRetailers.Functions\\Functions\\OrdersFunctions.cs",
+              "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\Functions\\OrdersFunctions.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\ABCRetailers.Functions\\Functions\\OrdersFunctions.cs",
+              "RelativeToolTip": "..\\ABCRetailers.Functions\\Functions\\OrdersFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:28:11.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T18:24:55.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomersFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\ABCRetailers.Functions\\Functions\\CustomersFunctions.cs",
+              "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\Functions\\CustomersFunctions.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\ABCRetailers.Functions\\Functions\\CustomersFunctions.cs",
+              "RelativeToolTip": "..\\ABCRetailers.Functions\\Functions\\CustomersFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:51:01.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\ABCRetailers.Functions\\host.json",
+              "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\host.json",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\ABCRetailers.Functions\\host.json",
+              "RelativeToolTip": "..\\ABCRetailers.Functions\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T18:24:48.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\ABCRetailers.Functions\\local.settings.json",
+              "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\local.settings.json",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\ABCRetailers.Functions\\local.settings.json",
+              "RelativeToolTip": "..\\ABCRetailers.Functions\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAADZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T18:24:44.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\ABCRetailers.Functions\\Function1.cs",
+              "RelativeDocumentMoniker": "..\\ABCRetailers.Functions\\Function1.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\ABCRetailers.Functions\\Function1.cs",
+              "RelativeToolTip": "..\\ABCRetailers.Functions\\Function1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:23:29.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:08:56.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\Models\\ViewModels\\CreateViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\CreateViewModel.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\Models\\ViewModels\\CreateViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\CreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T18:08:47.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AbcRetailerFunction.csproj",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\AbcRetailerFunction.csproj",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\AbcRetailerFunction.csproj",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\AbcRetailerFunction.csproj",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\AbcRetailerFunction.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T18:02:08.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\ProductsFunctions.cs",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\ProductsFunctions.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\ProductsFunctions.cs",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\ProductsFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:57:32.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "QueueProcessorFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\QueueProcessorFunctions.cs",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\QueueProcessorFunctions.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\QueueProcessorFunctions.cs",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\QueueProcessorFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:57:22.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UploadsFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\UploadsFunctions.cs",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\UploadsFunctions.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\UploadsFunctions.cs",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\UploadsFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:56:59.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\.gitignore",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\.gitignore",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\.gitignore",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-07T17:56:41.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Function1.cs",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Function1.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Function1.cs",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Function1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:55:39.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApiModels.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Models\\ApiModels.cs",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Models\\ApiModels.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Models\\ApiModels.cs",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Models\\ApiModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:55:31.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MultipartHelper.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Helpers\\MultipartHelper.cs",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Helpers\\MultipartHelper.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Helpers\\MultipartHelper.cs",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Helpers\\MultipartHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:54:43.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T17:54:09.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T17:54:07.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TableEntities.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Entities\\TableEntities.cs",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Entities\\TableEntities.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Entities\\TableEntities.cs",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Entities\\TableEntities.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:53:41.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrdersFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\OrdersFunctions.cs",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\OrdersFunctions.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\OrdersFunctions.cs",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\OrdersFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:52:19.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomersFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\CustomersFunctions.cs",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\CustomersFunctions.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\CustomersFunctions.cs",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\CustomersFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:52:04.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AbcRetailerFunction.csproj",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\AbcRetailerFunction.csproj",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\AbcRetailerFunction.csproj",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\AbcRetailerFunction.csproj",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\AbcRetailerFunction.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-07T17:51:03.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BlobFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\BlobFunctions.cs",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\BlobFunctions.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\BlobFunctions.cs",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Functions\\BlobFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:51:33.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Helpers\\Map.cs",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Helpers\\Map.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Helpers\\Map.cs",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Helpers\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:48:11.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HttpJson.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Helpers\\HttpJson.cs",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Helpers\\HttpJson.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Helpers\\HttpJson.cs",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Helpers\\HttpJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:47:56.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\Program.cs",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T17:28:33.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\local.settings.json",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\local.settings.json",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\local.settings.json",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T17:21:03.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\host.json",
+              "RelativeDocumentMoniker": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\host.json",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV P2 SEM 2\\AbcRetailerFunction\\host.json",
+              "RelativeToolTip": "..\\..\\CLDV P2 SEM 2\\AbcRetailerFunction\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T17:20:58.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "DocumentMoniker": "C:\\Users\\hmaba\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "ToolTip": "C:\\Users\\hmaba\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\microsoft.azure.functions.worker.sdk\\2.0.0\\build\\Microsoft.Azure.Functions.Worker.Sdk.targets",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAYwIcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-07T15:54:56.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAzureStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\Services\\IAzureStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\IAzureStorageService.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\Services\\IAzureStorageService.cs",
+              "RelativeToolTip": "Services\\IAzureStorageService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAApwCYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:51:47.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:38:49.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FunctionsApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\Services\\FunctionsApiClient.cs",
+              "RelativeDocumentMoniker": "Services\\FunctionsApiClient.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\Services\\FunctionsApiClient.cs",
+              "RelativeToolTip": "Services\\FunctionsApiClient.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAnwLAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:36:45.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AzureStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\Services\\AzureStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\AzureStorageService.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\Services\\AzureStorageService.cs",
+              "RelativeToolTip": "Services\\AzureStorageService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwDwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T13:59:01.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T13:54:59.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\hmaba\\OneDrive\\Desktop\\CLDV Attempt\\AbCRetailers\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Order\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-28T07:23:33.899Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\appsettings.json
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\AbCRetailers.staticwebassets.runtime.json
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\AbCRetailers.staticwebassets.endpoints.json
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\AbCRetailers.exe
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\AbCRetailers.deps.json
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\AbCRetailers.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\AbCRetailers.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\AbCRetailers.pdb
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\Azure.Data.Tables.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\Azure.Storage.Blobs.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\Azure.Storage.Common.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\Azure.Storage.Files.Shares.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\Azure.Storage.Queues.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\System.IO.Hashing.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\xunit.abstractions.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\xunit.core.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\bin\Debug\net9.0\xunit.execution.dotnet.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\AbCRetailers.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\AbCRetailers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\AbCRetailers.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\AbCRetailers.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\AbCRetailers.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\AbCRetailers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\AbCRetailers.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\AbCRetailers.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\scopedcss\bundle\AbCRetailers.styles.css
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\scopedcss\projectbundle\AbCRetailers.bundle.scp.css
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\qqudt58589-b9sayid5wm.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\62haqzxnfa-61n19gt1b8.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\97trtrfakw-xtxxf3hu2r.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\9b8vpx7b77-bqjiyaj88i.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\78al3xo0id-c2jlpeoesf.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\8t6rj11zh9-erw9l3u2r3.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\hmd6of0982-aexeepp0ev.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\ie5wrr8zil-d7shbmvgxk.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\ee0v9joki2-ausgxo2sd3.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\z4xmlpho78-k8d9w2qqmf.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\5xdqvchzs9-cosvhxvwiu.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\5jbqwkw2r7-ub07r2b239.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\4shd0q2tax-fvhpjtyr6v.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\wqhzacrbb8-b7pk76d08c.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\y0e902prey-fsbi9cje9m.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\pdeit5laij-rzd6atqjts.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\slkuamr0e4-ee0r1s7dh0.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\uha4rdroqu-dxx9fxp4il.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\rkvtebdwle-jd9uben2k1.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\ja40s5rxwx-khv3u5hwcm.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\fkdktulwe9-r4e9w2rdcm.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\aleknyvmyr-lcd1t2u6c8.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\2beqlquvcn-c2oey78nd0.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\53m6w24n7x-tdbxkamptv.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\kuj6zwlctm-j5mq2jizvt.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\wt4n8uuyvv-06098lyss8.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\x1595dfybe-nvvlpmu67g.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\3ox2648nhh-s35ty4nyc5.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\8y9mod96y8-pj5nd1wqec.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\ysxysv6jy7-46ein0sx1k.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\je3pb0apxu-v0zj4ognzu.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\pj2l5380zm-37tfw0ft22.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\sloslb6ijw-hrwsygsryq.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\kxq7qlrn5d-pk9g2wxc8p.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\pq33mf5e6o-ft3s53vfgj.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\dkoaqqg8q8-6cfz1n2cew.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\17xospdrgz-6pdc2jztkx.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\gk32ag849m-493y06b0oq.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\hv0i1yzl8v-iovd86k7lj.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\ype4xqyfeo-vr1egmr9el.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\uqivcny468-kbrnm935zg.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\iezufg0p4g-jj8uyg4cgr.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\it18qy386b-y7v9cxd14o.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\v4rd2l2038-notf2xhcfb.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\gfn6yi5qk5-h1s4sie4z3.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\gvnpf1hf2o-63fj8s7r0e.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\qfc4g2fkdp-0j3bgjxly4.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\15sx3ioyn8-47otxtyo56.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\i3up69yzvr-4v8eqarkd7.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\lz2zzcyhfb-356vix0kms.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\twvbbekquc-83jwlth58m.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\by7fkz91tx-mrlpezrjn3.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\mybhxrgxfq-lzl9nlhx6b.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\uwcjyle3ox-ag7o75518u.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\cmm1bf6xvx-x0q3zqp4vz.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\ujm0yhfz55-0i3buxo5is.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\z8slnfnide-o1o13a6vjx.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\qi9za18jfw-ttgo8qnofa.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\lxb46321vs-2z0ns9nrw6.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\jv13vpwu19-muycvpuwrr.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\vm866ufyha-87fc7y1x7t.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\9qwl582m5r-mlv21k5csn.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\y55x7o97kt-ka7vb3dnxz.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\compressed\6xqelbh751-ka7vb3dnxz.gz
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\AbCRetai.4B2BC37C.Up2Date
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\AbCRetailers.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\refint\AbCRetailers.dll
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\AbCRetailers.pdb
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\AbCRetailers.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\SEM_2proj\AbCRetailers\obj\Debug\net9.0\ref\AbCRetailers.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\appsettings.json
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\AbCRetailers.staticwebassets.runtime.json
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\AbCRetailers.staticwebassets.endpoints.json
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\AbCRetailers.exe
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\AbCRetailers.deps.json
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\AbCRetailers.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\AbCRetailers.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\AbCRetailers.pdb
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\Azure.Data.Tables.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\Azure.Storage.Blobs.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\Azure.Storage.Common.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\Azure.Storage.Files.Shares.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\Azure.Storage.Queues.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\System.IO.Hashing.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\xunit.abstractions.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\xunit.core.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\xunit.execution.dotnet.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\AbCRetailers.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\AbCRetailers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\AbCRetailers.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\AbCRetailers.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\AbCRetailers.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\AbCRetailers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\AbCRetailers.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\AbCRetailers.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\scopedcss\bundle\AbCRetailers.styles.css
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\scopedcss\projectbundle\AbCRetailers.bundle.scp.css
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\qqudt58589-b9sayid5wm.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\62haqzxnfa-61n19gt1b8.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\97trtrfakw-xtxxf3hu2r.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\9b8vpx7b77-bqjiyaj88i.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\78al3xo0id-c2jlpeoesf.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\8t6rj11zh9-erw9l3u2r3.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\hmd6of0982-aexeepp0ev.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\ie5wrr8zil-d7shbmvgxk.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\ee0v9joki2-ausgxo2sd3.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\z4xmlpho78-k8d9w2qqmf.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\5xdqvchzs9-cosvhxvwiu.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\5jbqwkw2r7-ub07r2b239.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\4shd0q2tax-fvhpjtyr6v.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\wqhzacrbb8-b7pk76d08c.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\y0e902prey-fsbi9cje9m.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\pdeit5laij-rzd6atqjts.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\slkuamr0e4-ee0r1s7dh0.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\uha4rdroqu-dxx9fxp4il.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\rkvtebdwle-jd9uben2k1.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\ja40s5rxwx-khv3u5hwcm.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\fkdktulwe9-r4e9w2rdcm.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\aleknyvmyr-lcd1t2u6c8.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\2beqlquvcn-c2oey78nd0.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\53m6w24n7x-tdbxkamptv.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\kuj6zwlctm-j5mq2jizvt.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\wt4n8uuyvv-06098lyss8.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\x1595dfybe-nvvlpmu67g.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\3ox2648nhh-s35ty4nyc5.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\8y9mod96y8-pj5nd1wqec.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\ysxysv6jy7-46ein0sx1k.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\je3pb0apxu-v0zj4ognzu.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\pj2l5380zm-37tfw0ft22.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\sloslb6ijw-hrwsygsryq.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\kxq7qlrn5d-pk9g2wxc8p.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\pq33mf5e6o-ft3s53vfgj.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\dkoaqqg8q8-6cfz1n2cew.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\17xospdrgz-6pdc2jztkx.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\gk32ag849m-493y06b0oq.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\hv0i1yzl8v-iovd86k7lj.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\ype4xqyfeo-vr1egmr9el.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\uqivcny468-kbrnm935zg.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\iezufg0p4g-jj8uyg4cgr.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\it18qy386b-y7v9cxd14o.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\v4rd2l2038-notf2xhcfb.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\gfn6yi5qk5-h1s4sie4z3.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\gvnpf1hf2o-63fj8s7r0e.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\qfc4g2fkdp-0j3bgjxly4.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\15sx3ioyn8-47otxtyo56.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\i3up69yzvr-4v8eqarkd7.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\lz2zzcyhfb-356vix0kms.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\twvbbekquc-83jwlth58m.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\by7fkz91tx-mrlpezrjn3.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\mybhxrgxfq-lzl9nlhx6b.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\uwcjyle3ox-ag7o75518u.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\cmm1bf6xvx-x0q3zqp4vz.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\ujm0yhfz55-0i3buxo5is.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\z8slnfnide-o1o13a6vjx.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\qi9za18jfw-ttgo8qnofa.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\lxb46321vs-2z0ns9nrw6.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\jv13vpwu19-muycvpuwrr.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\vm866ufyha-87fc7y1x7t.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\9qwl582m5r-mlv21k5csn.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\y55x7o97kt-ka7vb3dnxz.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\compressed\6xqelbh751-ka7vb3dnxz.gz
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\AbCRetai.4B2BC37C.Up2Date
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\AbCRetailers.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\refint\AbCRetailers.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\AbCRetailers.pdb
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\AbCRetailers.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\obj\Debug\net9.0\ref\AbCRetailers.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Extensions.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Worker.Core.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.WebJobs.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\Microsoft.Net.Http.Headers.dll
+C:\Users\lab_services_student\Desktop\AbCRetailers\AbCRetailers\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\appsettings.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\AbCRetailers.staticwebassets.endpoints.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\AbCRetailers.staticwebassets.runtime.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\AbCRetailers.exe
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\AbCRetailers.deps.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\AbCRetailers.runtimeconfig.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\AbCRetailers.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\AbCRetailers.pdb
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Azure.Data.Tables.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Azure.Storage.Blobs.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Azure.Storage.Common.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Azure.Storage.Files.Shares.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Azure.Storage.Queues.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Extensions.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Worker.Core.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.WebJobs.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.Net.Http.Headers.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\System.IO.Hashing.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\xunit.abstractions.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\xunit.core.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\xunit.execution.dotnet.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\AbCRetailers.csproj.AssemblyReference.cache
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\AbCRetailers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\AbCRetailers.AssemblyInfoInputs.cache
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\AbCRetailers.AssemblyInfo.cs
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\AbCRetailers.csproj.CoreCompileInputs.cache
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\AbCRetailers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\AbCRetailers.RazorAssemblyInfo.cache
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\AbCRetailers.RazorAssemblyInfo.cs
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\scopedcss\bundle\AbCRetailers.styles.css
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\scopedcss\projectbundle\AbCRetailers.bundle.scp.css
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\qqudt58589-b9sayid5wm.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\62haqzxnfa-61n19gt1b8.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\97trtrfakw-xtxxf3hu2r.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\9b8vpx7b77-bqjiyaj88i.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\78al3xo0id-c2jlpeoesf.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\8t6rj11zh9-erw9l3u2r3.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\hmd6of0982-aexeepp0ev.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\ie5wrr8zil-d7shbmvgxk.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\ee0v9joki2-ausgxo2sd3.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\z4xmlpho78-k8d9w2qqmf.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\5xdqvchzs9-cosvhxvwiu.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\5jbqwkw2r7-ub07r2b239.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\4shd0q2tax-fvhpjtyr6v.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\wqhzacrbb8-b7pk76d08c.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\y0e902prey-fsbi9cje9m.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\pdeit5laij-rzd6atqjts.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\slkuamr0e4-ee0r1s7dh0.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\uha4rdroqu-dxx9fxp4il.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\rkvtebdwle-jd9uben2k1.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\ja40s5rxwx-khv3u5hwcm.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\fkdktulwe9-r4e9w2rdcm.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\aleknyvmyr-lcd1t2u6c8.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\2beqlquvcn-c2oey78nd0.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\53m6w24n7x-tdbxkamptv.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\kuj6zwlctm-j5mq2jizvt.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\wt4n8uuyvv-06098lyss8.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\x1595dfybe-nvvlpmu67g.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\3ox2648nhh-s35ty4nyc5.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\8y9mod96y8-pj5nd1wqec.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\ysxysv6jy7-46ein0sx1k.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\je3pb0apxu-v0zj4ognzu.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\pj2l5380zm-37tfw0ft22.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\sloslb6ijw-hrwsygsryq.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\kxq7qlrn5d-pk9g2wxc8p.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\pq33mf5e6o-ft3s53vfgj.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\dkoaqqg8q8-6cfz1n2cew.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\17xospdrgz-6pdc2jztkx.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\gk32ag849m-493y06b0oq.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\hv0i1yzl8v-iovd86k7lj.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\ype4xqyfeo-vr1egmr9el.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\uqivcny468-kbrnm935zg.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\iezufg0p4g-jj8uyg4cgr.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\it18qy386b-y7v9cxd14o.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\v4rd2l2038-notf2xhcfb.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\gfn6yi5qk5-h1s4sie4z3.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\gvnpf1hf2o-63fj8s7r0e.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\qfc4g2fkdp-0j3bgjxly4.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\15sx3ioyn8-47otxtyo56.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\i3up69yzvr-4v8eqarkd7.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\lz2zzcyhfb-356vix0kms.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\twvbbekquc-83jwlth58m.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\by7fkz91tx-mrlpezrjn3.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\mybhxrgxfq-lzl9nlhx6b.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\uwcjyle3ox-ag7o75518u.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\cmm1bf6xvx-x0q3zqp4vz.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\ujm0yhfz55-0i3buxo5is.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\z8slnfnide-o1o13a6vjx.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\qi9za18jfw-ttgo8qnofa.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\lxb46321vs-2z0ns9nrw6.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\jv13vpwu19-muycvpuwrr.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\vm866ufyha-87fc7y1x7t.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\9qwl582m5r-mlv21k5csn.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\y55x7o97kt-ka7vb3dnxz.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\compressed\6xqelbh751-ka7vb3dnxz.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\AbCRetai.4B2BC37C.Up2Date
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\AbCRetailers.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\refint\AbCRetailers.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\AbCRetailers.pdb
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\AbCRetailers.genruntimeconfig.cache
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\obj\Debug\net9.0\ref\AbCRetailers.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Grpc.Net.ClientFactory.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Worker.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Worker.Extensions.Abstractions.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Worker.Extensions.Http.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Worker.Extensions.Storage.Blobs.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Worker.Extensions.Storage.Queues.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Worker.Extensions.Tables.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Worker.Grpc.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.Extensions.Azure.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\System.Linq.Async.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV P2 SEM 2\AbCRetailers\bin\Debug\net9.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\appsettings.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\AbCRetailers.staticwebassets.endpoints.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\AbCRetailers.staticwebassets.runtime.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\AbCRetailers.exe
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\AbCRetailers.deps.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\AbCRetailers.runtimeconfig.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\AbCRetailers.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\AbCRetailers.pdb
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Azure.Data.Tables.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Azure.Storage.Blobs.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Azure.Storage.Common.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Azure.Storage.Files.Shares.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Azure.Storage.Queues.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Google.Protobuf.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Grpc.Net.ClientFactory.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Extensions.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Worker.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Worker.Core.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Worker.Extensions.Abstractions.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Worker.Extensions.Http.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Worker.Extensions.Storage.Blobs.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Worker.Extensions.Storage.Queues.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Worker.Extensions.Tables.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.Functions.Worker.Grpc.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.WebJobs.Host.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.Azure.WebJobs.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.Extensions.Azure.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Microsoft.Net.Http.Headers.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\System.IO.Hashing.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\System.Linq.Async.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\xunit.abstractions.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\xunit.core.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\xunit.execution.dotnet.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\bin\Debug\net9.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\AbCRetailers.csproj.AssemblyReference.cache
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\AbCRetailers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\AbCRetailers.AssemblyInfoInputs.cache
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\AbCRetailers.AssemblyInfo.cs
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\AbCRetailers.csproj.CoreCompileInputs.cache
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\AbCRetailers.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\AbCRetailers.RazorAssemblyInfo.cache
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\AbCRetailers.RazorAssemblyInfo.cs
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\scopedcss\bundle\AbCRetailers.styles.css
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\scopedcss\projectbundle\AbCRetailers.bundle.scp.css
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\qqudt58589-b9sayid5wm.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\62haqzxnfa-61n19gt1b8.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\97trtrfakw-xtxxf3hu2r.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\9b8vpx7b77-bqjiyaj88i.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\78al3xo0id-c2jlpeoesf.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\8t6rj11zh9-erw9l3u2r3.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\hmd6of0982-aexeepp0ev.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\ie5wrr8zil-d7shbmvgxk.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\ee0v9joki2-ausgxo2sd3.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\z4xmlpho78-k8d9w2qqmf.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\5xdqvchzs9-cosvhxvwiu.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\5jbqwkw2r7-ub07r2b239.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\4shd0q2tax-fvhpjtyr6v.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\wqhzacrbb8-b7pk76d08c.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\y0e902prey-fsbi9cje9m.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\pdeit5laij-rzd6atqjts.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\slkuamr0e4-ee0r1s7dh0.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\uha4rdroqu-dxx9fxp4il.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\rkvtebdwle-jd9uben2k1.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\ja40s5rxwx-khv3u5hwcm.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\fkdktulwe9-r4e9w2rdcm.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\aleknyvmyr-lcd1t2u6c8.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\2beqlquvcn-c2oey78nd0.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\53m6w24n7x-tdbxkamptv.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\kuj6zwlctm-j5mq2jizvt.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\wt4n8uuyvv-06098lyss8.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\x1595dfybe-nvvlpmu67g.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\3ox2648nhh-s35ty4nyc5.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\8y9mod96y8-pj5nd1wqec.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\ysxysv6jy7-46ein0sx1k.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\je3pb0apxu-v0zj4ognzu.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\pj2l5380zm-37tfw0ft22.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\sloslb6ijw-hrwsygsryq.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\kxq7qlrn5d-pk9g2wxc8p.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\pq33mf5e6o-ft3s53vfgj.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\dkoaqqg8q8-6cfz1n2cew.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\17xospdrgz-6pdc2jztkx.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\gk32ag849m-493y06b0oq.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\hv0i1yzl8v-iovd86k7lj.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\ype4xqyfeo-vr1egmr9el.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\uqivcny468-kbrnm935zg.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\iezufg0p4g-jj8uyg4cgr.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\it18qy386b-y7v9cxd14o.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\v4rd2l2038-notf2xhcfb.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\gfn6yi5qk5-h1s4sie4z3.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\gvnpf1hf2o-63fj8s7r0e.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\qfc4g2fkdp-0j3bgjxly4.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\15sx3ioyn8-47otxtyo56.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\i3up69yzvr-4v8eqarkd7.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\lz2zzcyhfb-356vix0kms.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\twvbbekquc-83jwlth58m.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\by7fkz91tx-mrlpezrjn3.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\mybhxrgxfq-lzl9nlhx6b.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\uwcjyle3ox-ag7o75518u.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\cmm1bf6xvx-x0q3zqp4vz.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\ujm0yhfz55-0i3buxo5is.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\z8slnfnide-o1o13a6vjx.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\qi9za18jfw-ttgo8qnofa.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\lxb46321vs-2z0ns9nrw6.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\jv13vpwu19-muycvpuwrr.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\vm866ufyha-87fc7y1x7t.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\9qwl582m5r-mlv21k5csn.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\y55x7o97kt-ka7vb3dnxz.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\compressed\6xqelbh751-ka7vb3dnxz.gz
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\AbCRetai.4B2BC37C.Up2Date
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\AbCRetailers.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\refint\AbCRetailers.dll
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\AbCRetailers.pdb
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\AbCRetailers.genruntimeconfig.cache
+C:\Users\hmaba\OneDrive\Desktop\CLDV Attempt\AbCRetailers\obj\Debug\net9.0\ref\AbCRetailers.dll
